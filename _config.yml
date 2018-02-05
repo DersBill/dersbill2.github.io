@@ -10,13 +10,13 @@ title: AndersBill.com
 email: anders@darkroom.tech
 description: > # this means to ignore newlines until "baseurl:"
   I've had a passion for creating companies that have the potential to empower other entrepreneurs,
-  whether they be musicians, photographers, or engineers. 
+  whether they be musicians, photographers, or engineers.
   My past/current ventures are based off the thesis that the future is one of mass
   decentralization: of power, communication and security.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: askdarkroom
+github_username:  DersBill
 
 # Build settings
 markdown: kramdown
